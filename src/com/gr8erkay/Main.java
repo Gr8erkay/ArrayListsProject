@@ -1,8 +1,6 @@
 package com.gr8erkay;
 
-<<<<<<< HEAD
-public class Main {
-=======
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -35,8 +33,7 @@ public class Main {
         groceryList.add(new GroceryItem("Yoghurt"));
         groceryList.add(new GroceryItem("Oranges", "PRODUCE", 5));
         groceryList.set(0,
-        new GroceryItem("apples", "PRODUCE", 6));
+                new GroceryItem("apples", "PRODUCE", 6));
         System.out.println(groceryList);
     }
->>>>>>> f305178 (Arrays and ArrayLists methods)
 }
