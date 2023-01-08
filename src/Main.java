@@ -26,7 +26,7 @@ public class Main {
 
         int input = Integer.parseInt(userInput);
 
-        System.out.println("Kindly input your data");
+        System.out.println("Kindly input your data " + input);
 
     }
 
